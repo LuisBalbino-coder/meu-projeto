@@ -1,4 +1,8 @@
 Luis
+<<<<<<< Updated upstream
 Miguel
+=======
+Miguel 
+>>>>>>> Stashed changes
 José
 Pietro
